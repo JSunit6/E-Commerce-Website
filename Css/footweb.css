@@ -1,0 +1,315 @@
+.demo-layout-transparent 
+{
+  background: url('images/background.jpg') center / cover;
+}
+
+.demo-layout-transparent .mdl-layout__header,
+.demo-layout-transparent .mdl-layout__drawer-button {
+  /* This background is dark, so we set text to white. Use 87% black instead if
+     your background is light. */
+  color: white;
+}
+.mdl-layout__drawer 
+{
+    height: 2000px;
+    background-color: #616161;
+    
+}
+.mdl-layout__drawer .mdl-layout-title{
+    color: #18FFFF;
+    font-weight: bolder;
+    font-size: medium;
+    
+}
+.mdl-layout__drawer .mdl-navigation .mdl-navigation__link
+{
+    
+    color: #18FFFF;
+}
+.mdl-navigation .mdl-navigation__link
+{
+    color: #18FFFF;
+    font-weight: bolder;
+    font-size: large;
+}
+.mdl-layout__header .mdl-layout-title{
+    color: #18FFFF;
+    font-weight: bolder;
+    font-size: large;
+}
+
+#football .mdl-navigation__link{
+    margin-left: 34px;
+    font-size: 17px;
+    color: #FF9100;
+}
+
+#shoes .mdl-navigation__link{
+    margin-left: 34px;
+    font-size: 17px;
+    color: #FF9100;
+}
+#jersey .mdl-navigation__link{
+    margin-left: 34px;
+    font-size: 17px;
+    color: #FF9100;
+}
+#cart{
+ color: #18FFFF;    
+}
+.material-icons mdl-badge{
+    color: #FB8C00;
+}
+
+/* CSS for Login*/
+
+            .demo-card-square.mdl-card {
+                width: 240px;
+                height: 640px;
+/*                margin-top:10px;*/
+
+            }
+            #lgntitletxt{
+                margin-left: 110px;
+            }
+            #signup{
+                display: none;
+            }
+            #slideupanm{
+                display:none;
+
+            }
+            .demo-card-square > .mdl-card__title {
+                height:150px;
+                 
+                color: #ffffff;
+                background:url('images/account_circle_white.png') center 05% no-repeat #616161;
+                
+            }
+
+            #fnikecard0{
+                background: url('images/Football/Nike/fnike1large1.jpeg') center no-repeat;
+                 margin-top: 55px;
+
+            }
+             #fnikecard0:hover
+            {
+                 -webkit-transform: scale(2.5);
+                 -moz-transform: scale(2.5);
+                 -o-transform: scale(2.5);
+                  transform: scale(2.5);
+
+                -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+                -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+                -o-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+                 box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);                
+            }
+            #fnikecard1{
+                background: url('images/Football/Nike/fnike2.jpeg') center no-repeat;
+                 margin-top: 55px;
+
+            }
+             #fnikecard1:hover
+            {
+                 -webkit-transform: scale(2.5);
+                 -moz-transform: scale(2.5);
+                 -o-transform: scale(2.5);
+                  transform: scale(2.5);
+
+                -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+                -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+                -o-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+                 box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);                
+            }
+            #fnikecard2{
+                background: url('images/Football/Nike/fnike2.jpeg') center no-repeat;
+                 margin-top: 55px;
+
+            }
+             #fnikecard2:hover
+            {
+                 -webkit-transform: scale(2.5);
+                 -moz-transform: scale(2.5);
+                 -o-transform: scale(2.5);
+                  transform: scale(2.5);
+
+                -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+                -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+                -o-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+                 box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);                
+            }
+            
+            .mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent
+            {
+                background-color: #009688;
+
+            }
+            .mdl-textfield__label{
+                color:#00695C;
+            }
+            #lgnbtn{
+                 
+                color:#FFFFFF;
+            }
+            #fabbtn{
+               margin-right: -74px;
+               margin-left: 4px;
+               margin-top: 20px;
+            }
+            #forgotpassbtn{
+                   margin-left: 160px;
+                   margin-top: 20px;
+            }
+            
+            #card-square {
+                width: 340px;
+                height: auto;
+                margin-top:0px;
+
+            }
+            #card_title {
+                margin-top: 0px;
+                color: #ffffff;
+                text-align: center;
+                
+
+            }
+            #card__title-text{
+                margin-top: 05px;
+                margin-right: 60px;
+                color: #ffffff;
+            }
+
+            #textfield0{
+                color:#9E9E9E;
+            }
+            #fabbtnsgnupdone{
+                color:#FFFFFF ;
+                /*position: absolute;*/
+                margin-left: 0px;
+            }
+            
+
+
+            #fabbtnback{
+                margin-right: 81px;
+                margin-bottom: 90px;
+                color:#FFFFFF;
+            }
+            
+            #signuptitle{
+                margin-right: 200px;
+                margin-top: 93px;
+            }
+            #btnclose{
+                color:#FFFFFF;
+                margin-left: 70px;
+            }
+            #support_text{
+                background:  #FFFFFF;
+            }
+           
+            #card0
+            { margin-left: 175px;
+                margin-right: -80px;
+                margin-top: 10%;
+            }
+
+            #card1
+        {
+/*    margin-left: 240px;*/
+            margin-right: -80px;
+            margin-top: 10%;
+        }
+        #card2{
+              margin-top: 10%;
+        }
+
+         
+      #footnikecard:hover{
+
+             /* -webkit-transform: scale(1.01) translate3d(0,0,0);
+                 -moz-transform: scale(1.01) translate3d(0,0,0);
+                 -o-transform: scale(1.01) translate3d(0,0,0);
+                transform: scale(1.01) translate3d(0,0,0);*/
+
+              -webkit-box-shadow: 10px 10px 10px #888888;
+                -moz-box-shadow: 10px 10px 10px #888888;
+                -o-box-shadow: 10px 10px 10px #888888;
+                 box-shadow: 10px 10px 10px #888888;                
+        }
+
+        #fnikecardtitle{
+            color: #000000;
+            margin-bottom: -72px;
+            font-size: 17px;
+        }
+        #cartbtn{
+            color: #D84315;
+            font-weight: bolder;
+        }
+        #logoutswitch
+        {
+          color: #E65100;
+          margin-top: -4px;
+          margin-left: -11px;
+          margin-right: 27px;
+        }
+        #loginname{  
+          margin-left: -179px;
+          margin-top: -5px;
+        }
+        #frgtbtnback{
+          margin-top: -100px;
+          margin-right:-80px;
+        }
+        #forgotpassbackgrnd
+        {
+            background:url('images/help.png') center 05% no-repeat #616161;
+        }
+         #shopid
+        {
+          margin-left: 84%;
+          margin-top: -7%;
+          margin-bottom: -7%;
+        }
+
+        #shopid:hover
+      {
+        transform:rotate(350deg);
+      }
+         #shopid0,#shopid1,#shopid2
+        {
+         margin-left:77%;
+         margin-top:-13%;
+         margin-bottom:15%;
+        }
+        
+        #shopid0:hover,#shopid1:hover,#shopid2:hover,#cartback:hover
+      {
+        transform:rotate(350deg);
+      }
+      #fnikedes{
+        font-weight: bolder;
+      }
+      .demo-card-wide.mdl-card {
+        width: 512px;
+    }
+    #expfnikecard0,#expfnikecard1,#expfnikecard2,#shopping_cart
+    {
+      margin-left: 33%;
+      margin-top: 10%;
+
+    }
+    
+    #mdl-menu--bottom-right{
+      color: #76FF25;
+      margin-left:-20px;
+    }
+   #cartback
+  {   
+      margin-left: 70%;
+      margin-top: -7%;
+      margin-bottom: 4%;
+  }
+

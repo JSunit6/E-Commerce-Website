@@ -1,0 +1,20 @@
+.pop_up_area {
+	width:500px;
+	margin:0 auto;
+	
+}
+.single_popup {
+	float: left;
+	width:100px;
+	height: auto;
+}
+.single_popup img {
+	height: 100px;
+	width: 100px;
+}
+li{
+	margin-left: 5px;
+}
+#li2{
+	margin-left: 5px;
+}
